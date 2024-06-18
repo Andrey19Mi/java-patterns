@@ -2,6 +2,7 @@ package org.example.factorymethod;
 
 /**
  * Класс реализующий фабричный метод.
+ * @author Andrey Udalov
  */
 public class CarSelector {
 
