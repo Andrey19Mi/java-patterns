@@ -2,6 +2,7 @@ package org.example.singleton;
 
 /**
  * Lazy Initialization реализация паттерна Singleton.
+ * @author Andrey Udalov
  */
 public final class LazySingleton {
 

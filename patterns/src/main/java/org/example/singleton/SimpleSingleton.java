@@ -2,6 +2,7 @@ package org.example.singleton;
 
 /**
  * Simple Solution реализация паттерна Singleton.
+ * @author Andrey Udalov
  */
 public final class SimpleSingleton {
 
