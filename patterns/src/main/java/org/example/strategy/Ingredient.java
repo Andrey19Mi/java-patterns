@@ -1,13 +1,13 @@
 package org.example.strategy;
 
 /**
- * Деятельность.
+ * Ингридиент.
  * @author Andrey Udalov
  */
 public interface Ingredient {
 
     /**
-     * Выполняет деятельность.
+     * Добавить ингридиент.
      */
     void add();
 
