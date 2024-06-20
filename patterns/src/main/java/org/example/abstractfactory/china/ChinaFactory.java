@@ -6,6 +6,7 @@ import org.example.abstractfactory.Motorbike;
 
 /**
  * Абстрактная фабрика китайской техники
+ * @author Andrey Udalov
  */
 public class ChinaFactory implements Factory {
 

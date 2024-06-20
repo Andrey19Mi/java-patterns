@@ -5,6 +5,7 @@ import org.example.abstractfactory.Motorbike;
 
 /**
  * Русский мотоцикл
+ * @author Andrey Udalov
  */
 @Slf4j
 public class ChinaMotorbike implements Motorbike {
