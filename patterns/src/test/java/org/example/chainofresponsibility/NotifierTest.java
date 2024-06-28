@@ -22,7 +22,7 @@ class NotifierTest {
     }
 
     @Test
-    void notifierManager() {
+    void testNotifierManager() {
         logNotifier.notifierManager("Hello world!", Priority.HIGH.getLevel());
     }
 }
