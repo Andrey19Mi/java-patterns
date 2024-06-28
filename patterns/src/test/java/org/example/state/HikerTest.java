@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class HikerTest {
 
     @Test
-    void liveDays() {
+    void testLiveDays() {
         Hiker hiker = new Hiker();
         hiker.liveDays(3);
     }
