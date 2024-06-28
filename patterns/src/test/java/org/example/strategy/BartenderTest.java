@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 class BartenderTest {
 
     @Test
-    void execute() {
+    void testExecute() {
 
         Bartender bartender = new Bartender();
         bartender.setIngredient(new Alcohol());
