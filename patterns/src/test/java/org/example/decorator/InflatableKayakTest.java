@@ -17,7 +17,7 @@ class InflatableKayakTest {
     }
 
     @Test
-    void go() {
+    void testGo() {
         Kayak inflatableKayak = new InflatableKayak(kayak);
         inflatableKayak.go();
         verify(kayak, times(1)).go();
