@@ -19,7 +19,7 @@ class ProxyProjectTest {
     }
 
     @Test
-    void run() {
+    void testRun() {
         ProxyProject proxyProject = new ProxyProject(url);
         log.info("Прокси проект создан");
         proxyProject.run();
